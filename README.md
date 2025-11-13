@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 Tech Stack (Neon Edition)
+## 🧠 Tech Stack 
 
 ```text
 💠 AI & Deep Learning: PyTorch | TensorFlow | GNNs | Autoencoders | CNN | LLMs
